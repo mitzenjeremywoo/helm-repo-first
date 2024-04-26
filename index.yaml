@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - https://github.com/mitzenjeremywoo/helm-repo-first/blob/main/helm-chart-test-0.1.0.tgz
+    - https://github.com/mitzenjeremywoo/helm-repo-first/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-27T08:35:34.2572295+12:00"
